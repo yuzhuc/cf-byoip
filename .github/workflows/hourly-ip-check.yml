@@ -1,0 +1,40 @@
+name: hourly-ip-check
+
+on:
+  schedule:
+    # 每小时执行一次 (UTC 整点; GitHub 定时可能有几分钟的延迟, 属正常现象)
+    - cron: '0 */3 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hourly-ip-check    # 同一时间只跑一个, 防止上次没跑完就又启动
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Run checker
+        run: |
+          bun check.js
+
+      - name: Commit results
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ipv4.txt ipv6.txt log.txt
+          git diff --cached --quiet && echo "nothing changed, skip commit" && exit 0
+          git commit --amend -m "chore: state snapshot ($(date -u '+%Y-%m-%d %H:%M'))"
+          git push --force-with-lease
