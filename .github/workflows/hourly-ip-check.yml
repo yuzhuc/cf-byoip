@@ -35,6 +35,5 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add ipv4.txt ipv6.txt log.txt
-          git diff --cached --quiet && echo "nothing changed, skip commit" && exit 0
-          git commit --amend -m "chore: state snapshot ($(date -u '+%Y-%m-%d %H:%M'))"
-          git push --force-with-lease
+          git diff --cached --quiet && echo "nothing changed, skip commit" || git commit -m "chore: daily ip sync ($(date -u '+%Y-%m-%d %H:%M'))"
+          git push
