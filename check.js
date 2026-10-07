@@ -2,11 +2,12 @@
 // ============================================================
 //  COMBINED CHECKER  (Bun / Node, Windows + Linux)
 //  probe : TCP 443 握手 (代替 ping, 本地/GitHub Actions 通用)
-//  input : all-ip.txt  (IPv4/IPv6 混排, 一行一个, # 开头跳过)
+//  input : all-ip.txt   待测列表 (IPv4/IPv6 混排, 一行一个, # 跳过)
+//          exclude.txt  排除名单 (可选; IPv4按/24匹配, IPv6按前3段hextet匹配)
 //  stage1: TCP 443 探活, 失败重试 retry 次, 记录握手延迟
 //  stage2: 探活通过则用 curl --resolve 指定解析 HOST 并 GET
 //  output: ipv4.txt / ipv6.txt  (通过且HTTP 200, 非根随机版)
-//          log.txt              (全部IP逐条记录)
+//          log.txt              (全部IP逐条记录, 不含被排除的)
 //  环境变量: DO_PING=0 跳过探活直接 HTTP
 //  运行  : bun check.js [列表文件]   (node 也可以)
 // ============================================================
@@ -18,6 +19,7 @@ const fs = require('fs');
 // ---------------- 配置区 ----------------
 const config = {
   ipList: process.argv[2] || 'all-ip.txt',
+  excludeFile: 'exclude.txt',
   ipv4File: 'ipv4.txt',   // 非根随机版 IPv4
   ipv6File: 'ipv6.txt',   // 非根随机版 IPv6
   logFile: 'log.txt',
@@ -80,6 +82,31 @@ function randomizeV6(ip) {
     return parts.join(':');
   }
   return s;
+}
+
+// ---- 排除名单匹配 ----
+// IPv6 展开为 8 段 hextet
+function expandV6(ip) {
+  const s = String(ip).trim().toLowerCase();
+  if (!s.includes('::')) return s.split(':');
+  const i = s.indexOf('::');
+  const head = s.slice(0, i);
+  const tail = s.slice(i + 2);
+  const h = head ? head.split(':') : [];
+  const t = tail ? tail.split(':') : [];
+  const fill = Math.max(0, 8 - h.length - t.length);
+  return [...h, ...Array(fill).fill('0'), ...t];
+}
+
+// 匹配键: v4 取前三段(/24), v6 取前三个 hextet
+function prefixKey(ip) {
+  const s = String(ip).trim().toLowerCase();
+  if (s.includes(':')) {
+    return 'v6:' + expandV6(s).slice(0, 3).join(':');
+  }
+  const p = s.split('.');
+  if (p.length === 4) return 'v4:' + p.slice(0, 3).join('.');
+  return 'x:' + s;
 }
 
 // TCP 探活 + 延迟(三次握手耗时, 毫秒)
@@ -169,11 +196,21 @@ async function testIp(ip, idx, total) {
     }
   }
 
-  const raw = fs.readFileSync(config.ipList, 'utf8');
-  const ips = raw.split(/\r?\n/)
-    .map(s => s.trim().split(/\s+/)[0])
-    .filter(s => s !== '' && !s.startsWith('#'));
+  const readList = (file) => fs.existsSync(file)
+    ? fs.readFileSync(file, 'utf8').split(/\r?\n/)
+        .map(s => s.trim().split(/\s+/)[0])
+        .filter(s => s !== '' && !s.startsWith('#'))
+    : [];
+
+  const allIps = readList(config.ipList);
+  const excludeSet = new Set(readList(config.excludeFile).map(prefixKey));
+
+  const excluded = allIps.filter(ip => excludeSet.has(prefixKey(ip)));
+  const ips = allIps.filter(ip => !excludeSet.has(prefixKey(ip)));
   const total = ips.length;
+
+  for (const ip of excluded) console.log(`[excluded] ${ip}`);
+  console.log(`exclude: ${excludeSet.size} rules, ${excluded.length} IPs skipped`);
 
   fs.writeFileSync(config.ipv4File, '');
   fs.writeFileSync(config.ipv6File, '');
@@ -216,7 +253,7 @@ async function testIp(ip, idx, total) {
 
   console.log('');
   console.log('==================================================');
-  console.log(`DONE: total=${total}  tcp_fail=${tcpFail}`);
+  console.log(`DONE: total=${total}  excluded=${excluded.length}  tcp_fail=${tcpFail}`);
   console.log(`       http200=${http200} (v4=${ok4}, v6=${ok6})  other=${httpBad}`);
   console.log(`ipv4 : ${config.ipv4File}   (非根随机版)`);
   console.log(`ipv6 : ${config.ipv6File}   (非根随机版)`);
