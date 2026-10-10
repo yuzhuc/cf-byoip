@@ -1,49 +1,49 @@
-5.10.244.0  ver=v4  tcp=OK  latency=7ms  http=200  remote=5.10.244.0  finalURL=https://www.acofork.com/
-5.175.141.0  ver=v4  tcp=OK  latency=23ms  http=200  remote=5.175.141.0  finalURL=https://www.acofork.com/
-5.226.179.0  ver=v4  tcp=OK  latency=6ms  http=403  remote=5.226.179.0  finalURL=https://www.acofork.com/
-5.226.181.0  ver=v4  tcp=OK  latency=12ms  http=000  remote=5.226.181.0  finalURL=https://www.acofork.com/
-14.102.228.0  ver=v4  tcp=OK  latency=15ms  http=200  remote=14.102.228.0  finalURL=https://www.acofork.com/
+5.10.244.0  ver=v4  tcp=OK  latency=8ms  http=200  remote=5.10.244.0  finalURL=https://www.acofork.com/
+5.175.141.0  ver=v4  tcp=OK  latency=8ms  http=200  remote=5.175.141.0  finalURL=https://www.acofork.com/
+5.226.179.0  ver=v4  tcp=OK  latency=32ms  http=403  remote=5.226.179.0  finalURL=https://www.acofork.com/
+5.226.181.0  ver=v4  tcp=OK  latency=4ms  http=000  remote=5.226.181.0  finalURL=https://www.acofork.com/
+14.102.228.0  ver=v4  tcp=OK  latency=9ms  http=200  remote=14.102.228.0  finalURL=https://www.acofork.com/
 23.145.232.0  ver=v4  tcp=FAIL  latency=-  http=skip
-23.167.152.0  ver=v4  tcp=OK  latency=4ms  http=000  remote=23.167.152.0  finalURL=https://www.acofork.com/
+23.167.152.0  ver=v4  tcp=OK  latency=5ms  http=000  remote=23.167.152.0  finalURL=https://www.acofork.com/
 23.178.112.0  ver=v4  tcp=FAIL  latency=-  http=skip
-23.247.163.0  ver=v4  tcp=OK  latency=33ms  http=403  remote=23.247.163.0  finalURL=https://www.acofork.com/
-25.25.25.0  ver=v4  tcp=OK  latency=10ms  http=000  remote=25.25.25.0  finalURL=https://www.acofork.com/
+23.247.163.0  ver=v4  tcp=OK  latency=25ms  http=403  remote=23.247.163.0  finalURL=https://www.acofork.com/
+25.25.25.0  ver=v4  tcp=OK  latency=15ms  http=000  remote=25.25.25.0  finalURL=https://www.acofork.com/
 25.26.27.0  ver=v4  tcp=OK  latency=7ms  http=000  remote=25.26.27.0  finalURL=https://www.acofork.com/
 25.129.196.0  ver=v4  tcp=FAIL  latency=-  http=skip
 25.129.198.0  ver=v4  tcp=FAIL  latency=-  http=skip
-27.50.48.0  ver=v4  tcp=OK  latency=24ms  http=200  remote=27.50.48.0  finalURL=https://www.acofork.com/
-27.50.49.0  ver=v4  tcp=OK  latency=28ms  http=200  remote=27.50.49.0  finalURL=https://www.acofork.com/
-31.12.75.0  ver=v4  tcp=OK  latency=19ms  http=200  remote=31.12.75.0  finalURL=https://www.acofork.com/
-31.43.179.0  ver=v4  tcp=OK  latency=32ms  http=200  remote=31.43.179.0  finalURL=https://www.acofork.com/
+27.50.48.0  ver=v4  tcp=OK  latency=43ms  http=200  remote=27.50.48.0  finalURL=https://www.acofork.com/
+27.50.49.0  ver=v4  tcp=OK  latency=26ms  http=200  remote=27.50.49.0  finalURL=https://www.acofork.com/
+31.12.75.0  ver=v4  tcp=OK  latency=21ms  http=200  remote=31.12.75.0  finalURL=https://www.acofork.com/
+31.43.179.0  ver=v4  tcp=OK  latency=21ms  http=200  remote=31.43.179.0  finalURL=https://www.acofork.com/
 42.201.8.0  ver=v4  tcp=FAIL  latency=-  http=skip
 42.201.16.0  ver=v4  tcp=FAIL  latency=-  http=skip
 44.31.142.0  ver=v4  tcp=FAIL  latency=-  http=skip
 45.8.211.0  ver=v4  tcp=FAIL  latency=-  http=skip
-45.12.30.0  ver=v4  tcp=OK  latency=10ms  http=200  remote=45.12.30.0  finalURL=https://www.acofork.com/
-45.80.108.0  ver=v4  tcp=OK  latency=13ms  http=200  remote=45.80.108.0  finalURL=https://www.acofork.com/
+45.12.30.0  ver=v4  tcp=OK  latency=34ms  http=200  remote=45.12.30.0  finalURL=https://www.acofork.com/
+45.80.108.0  ver=v4  tcp=OK  latency=48ms  http=200  remote=45.80.108.0  finalURL=https://www.acofork.com/
 45.80.109.0  ver=v4  tcp=FAIL  latency=-  http=skip
-45.80.110.0  ver=v4  tcp=OK  latency=38ms  http=200  remote=45.80.110.0  finalURL=https://www.acofork.com/
-45.80.111.0  ver=v4  tcp=OK  latency=18ms  http=200  remote=45.80.111.0  finalURL=https://www.acofork.com/
-45.81.58.0  ver=v4  tcp=OK  latency=34ms  http=200  remote=45.81.58.0  finalURL=https://www.acofork.com/
-45.95.241.0  ver=v4  tcp=OK  latency=41ms  http=403  remote=45.95.241.0  finalURL=https://www.acofork.com/
+45.80.110.0  ver=v4  tcp=OK  latency=15ms  http=200  remote=45.80.110.0  finalURL=https://www.acofork.com/
+45.80.111.0  ver=v4  tcp=OK  latency=27ms  http=200  remote=45.80.111.0  finalURL=https://www.acofork.com/
+45.81.58.0  ver=v4  tcp=OK  latency=37ms  http=200  remote=45.81.58.0  finalURL=https://www.acofork.com/
+45.95.241.0  ver=v4  tcp=OK  latency=35ms  http=403  remote=45.95.241.0  finalURL=https://www.acofork.com/
 45.128.224.0  ver=v4  tcp=FAIL  latency=-  http=skip
-45.131.4.0  ver=v4  tcp=OK  latency=31ms  http=200  remote=45.131.4.0  finalURL=https://www.acofork.com/
-45.131.208.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=45.131.208.0  finalURL=https://www.acofork.com/
+45.131.4.0  ver=v4  tcp=OK  latency=30ms  http=200  remote=45.131.4.0  finalURL=https://www.acofork.com/
+45.131.208.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=45.131.208.0  finalURL=https://www.acofork.com/
 45.135.235.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=45.135.235.0  finalURL=https://www.acofork.com/
 45.142.120.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=45.142.120.0  finalURL=https://www.acofork.com/
 45.146.201.0  ver=v4  tcp=FAIL  latency=-  http=skip
-45.149.12.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=45.149.12.0  finalURL=https://www.acofork.com/
-45.194.53.0  ver=v4  tcp=OK  latency=9ms  http=200  remote=45.194.53.0  finalURL=https://www.acofork.com/
+45.149.12.0  ver=v4  tcp=OK  latency=6ms  http=200  remote=45.149.12.0  finalURL=https://www.acofork.com/
+45.194.53.0  ver=v4  tcp=OK  latency=6ms  http=200  remote=45.194.53.0  finalURL=https://www.acofork.com/
 45.205.0.0  ver=v4  tcp=FAIL  latency=-  http=skip
-46.202.30.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=46.202.30.0  finalURL=https://www.acofork.com/
-62.72.166.0  ver=v4  tcp=OK  latency=5ms  http=200  remote=62.72.166.0  finalURL=https://www.acofork.com/
+46.202.30.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=46.202.30.0  finalURL=https://www.acofork.com/
+62.72.166.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=62.72.166.0  finalURL=https://www.acofork.com/
 62.169.155.0  ver=v4  tcp=FAIL  latency=-  http=skip
 64.39.233.0  ver=v4  tcp=FAIL  latency=-  http=skip
 64.39.236.0  ver=v4  tcp=FAIL  latency=-  http=skip
 64.69.24.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=64.69.24.0  finalURL=https://www.acofork.com/
 64.112.117.0  ver=v4  tcp=FAIL  latency=-  http=skip
 65.205.150.0  ver=v4  tcp=FAIL  latency=-  http=skip
-66.45.118.0  ver=v4  tcp=OK  latency=5ms  http=200  remote=66.45.118.0  finalURL=https://www.acofork.com/
+66.45.118.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=66.45.118.0  finalURL=https://www.acofork.com/
 66.81.247.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=66.81.247.0  finalURL=https://www.acofork.com/
 66.81.255.0  ver=v4  tcp=OK  latency=3ms  http=000  remote=66.81.255.0  finalURL=https://www.acofork.com/
 66.94.32.0  ver=v4  tcp=FAIL  latency=-  http=skip
@@ -53,37 +53,37 @@
 66.94.40.0  ver=v4  tcp=FAIL  latency=-  http=skip
 66.225.252.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=66.225.252.0  finalURL=https://www.acofork.com/
 68.169.48.0  ver=v4  tcp=FAIL  latency=-  http=skip
-69.48.218.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=69.48.218.0  finalURL=https://www.acofork.com/
+69.48.218.0  ver=v4  tcp=OK  latency=1ms  http=403  remote=69.48.218.0  finalURL=https://www.acofork.com/
 69.89.0.0  ver=v4  tcp=FAIL  latency=-  http=skip
 72.52.113.0  ver=v4  tcp=FAIL  latency=-  http=skip
-74.49.214.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=74.49.214.0  finalURL=https://www.acofork.com/
+74.49.214.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=74.49.214.0  finalURL=https://www.acofork.com/
 74.204.59.0  ver=v4  tcp=FAIL  latency=-  http=skip
 74.205.180.0  ver=v4  tcp=FAIL  latency=-  http=skip
 77.37.33.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=77.37.33.0  finalURL=https://www.acofork.com/
-77.74.228.0  ver=v4  tcp=OK  latency=5ms  http=200  remote=77.74.228.0  finalURL=https://www.acofork.com/
+77.74.228.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=77.74.228.0  finalURL=https://www.acofork.com/
 77.75.199.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=77.75.199.0  finalURL=https://www.acofork.com/
 77.81.50.0  ver=v4  tcp=FAIL  latency=-  http=skip
-77.232.140.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=77.232.140.0  finalURL=https://www.acofork.com/
+77.232.140.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=77.232.140.0  finalURL=https://www.acofork.com/
 77.232.141.0  ver=v4  tcp=FAIL  latency=-  http=skip
 80.83.188.0  ver=v4  tcp=FAIL  latency=-  http=skip
-80.93.202.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=80.93.202.0  finalURL=https://www.acofork.com/
+80.93.202.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=80.93.202.0  finalURL=https://www.acofork.com/
 83.118.224.0  ver=v4  tcp=FAIL  latency=-  http=skip
 83.118.226.0  ver=v4  tcp=FAIL  latency=-  http=skip
 85.237.216.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=85.237.216.0  finalURL=https://www.acofork.com/
-86.38.214.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=86.38.214.0  finalURL=https://www.acofork.com/
+86.38.214.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=86.38.214.0  finalURL=https://www.acofork.com/
 88.211.200.0  ver=v4  tcp=FAIL  latency=-  http=skip
 88.211.201.0  ver=v4  tcp=FAIL  latency=-  http=skip
 88.211.202.0  ver=v4  tcp=FAIL  latency=-  http=skip
 88.211.203.0  ver=v4  tcp=FAIL  latency=-  http=skip
 88.216.66.0  ver=v4  tcp=OK  latency=4ms  http=200  remote=88.216.66.0  finalURL=https://www.acofork.com/
 89.40.171.0  ver=v4  tcp=FAIL  latency=-  http=skip
-89.47.56.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=89.47.56.0  finalURL=https://www.acofork.com/
-89.116.46.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=89.116.46.0  finalURL=https://www.acofork.com/
-89.116.161.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=89.116.161.0  finalURL=https://www.acofork.com/
-89.116.180.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=89.116.180.0  finalURL=https://www.acofork.com/
+89.47.56.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=89.47.56.0  finalURL=https://www.acofork.com/
+89.116.46.0  ver=v4  tcp=OK  latency=1ms  http=200  remote=89.116.46.0  finalURL=https://www.acofork.com/
+89.116.161.0  ver=v4  tcp=OK  latency=1ms  http=200  remote=89.116.161.0  finalURL=https://www.acofork.com/
+89.116.180.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=89.116.180.0  finalURL=https://www.acofork.com/
 89.116.250.0  ver=v4  tcp=OK  latency=1ms  http=200  remote=89.116.250.0  finalURL=https://www.acofork.com/
 89.117.112.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=89.117.112.0  finalURL=https://www.acofork.com/
-89.207.18.0  ver=v4  tcp=OK  latency=3ms  http=000  remote=89.207.18.0  finalURL=https://www.acofork.com/
+89.207.18.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=89.207.18.0  finalURL=https://www.acofork.com/
 91.199.81.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=91.199.81.0  finalURL=https://www.acofork.com/
 91.209.253.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=91.209.253.0  finalURL=https://www.acofork.com/
 92.53.188.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=92.53.188.0  finalURL=https://www.acofork.com/
@@ -91,37 +91,37 @@
 93.113.129.0  ver=v4  tcp=FAIL  latency=-  http=skip
 93.114.64.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=93.114.64.0  finalURL=https://www.acofork.com/
 93.114.182.0  ver=v4  tcp=FAIL  latency=-  http=skip
-93.115.102.0  ver=v4  tcp=OK  latency=3ms  http=000  remote=93.115.102.0  finalURL=https://www.acofork.com/
+93.115.102.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=93.115.102.0  finalURL=https://www.acofork.com/
 93.152.234.0  ver=v4  tcp=FAIL  latency=-  http=skip
-94.140.0.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=94.140.0.0  finalURL=https://www.acofork.com/
+94.140.0.0  ver=v4  tcp=OK  latency=1ms  http=200  remote=94.140.0.0  finalURL=https://www.acofork.com/
 94.242.228.0  ver=v4  tcp=FAIL  latency=-  http=skip
 94.242.229.0  ver=v4  tcp=FAIL  latency=-  http=skip
 94.242.230.0  ver=v4  tcp=FAIL  latency=-  http=skip
 94.242.231.0  ver=v4  tcp=FAIL  latency=-  http=skip
-94.247.142.0  ver=v4  tcp=OK  latency=4ms  http=200  remote=94.247.142.0  finalURL=https://www.acofork.com/
+94.247.142.0  ver=v4  tcp=OK  latency=1ms  http=200  remote=94.247.142.0  finalURL=https://www.acofork.com/
 102.177.176.0  ver=v4  tcp=FAIL  latency=-  http=skip
-102.177.189.0  ver=v4  tcp=OK  latency=4ms  http=200  remote=102.177.189.0  finalURL=https://www.acofork.com/
-103.11.212.0  ver=v4  tcp=OK  latency=9ms  http=403  remote=103.11.212.0  finalURL=https://www.acofork.com/
+102.177.189.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=102.177.189.0  finalURL=https://www.acofork.com/
+103.11.212.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=103.11.212.0  finalURL=https://www.acofork.com/
 103.11.214.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=103.11.214.0  finalURL=https://www.acofork.com/
 103.15.85.0  ver=v4  tcp=FAIL  latency=-  http=skip
 103.19.144.0  ver=v4  tcp=FAIL  latency=-  http=skip
 103.112.176.0  ver=v4  tcp=FAIL  latency=-  http=skip
-103.116.7.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=103.116.7.0  finalURL=https://www.acofork.com/
+103.116.7.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=103.116.7.0  finalURL=https://www.acofork.com/
 103.121.59.0  ver=v4  tcp=FAIL  latency=-  http=skip
 103.133.1.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=103.133.1.0  finalURL=https://www.acofork.com/
-103.169.142.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=103.169.142.0  finalURL=https://www.acofork.com/
-103.172.110.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=103.172.110.0  finalURL=https://www.acofork.com/
-103.204.13.0  ver=v4  tcp=OK  latency=282ms  http=000  remote=  finalURL=https://www.acofork.com/
+103.169.142.0  ver=v4  tcp=OK  latency=1ms  http=200  remote=103.169.142.0  finalURL=https://www.acofork.com/
+103.172.110.0  ver=v4  tcp=OK  latency=1ms  http=403  remote=103.172.110.0  finalURL=https://www.acofork.com/
+103.204.13.0  ver=v4  tcp=OK  latency=244ms  http=000  remote=103.204.13.0  finalURL=https://www.acofork.com/
 103.219.64.0  ver=v4  tcp=FAIL  latency=-  http=skip
 103.244.119.0  ver=v4  tcp=FAIL  latency=-  http=skip
-104.36.195.0  ver=v4  tcp=OK  latency=4ms  http=403  remote=104.36.195.0  finalURL=https://www.acofork.com/
+104.36.195.0  ver=v4  tcp=OK  latency=1ms  http=403  remote=104.36.195.0  finalURL=https://www.acofork.com/
 104.129.164.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=104.129.164.0  finalURL=https://www.acofork.com/
 104.164.10.0  ver=v4  tcp=FAIL  latency=-  http=skip
 104.165.65.0  ver=v4  tcp=FAIL  latency=-  http=skip
-104.234.239.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=104.234.239.0  finalURL=https://www.acofork.com/
+104.234.239.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=104.234.239.0  finalURL=https://www.acofork.com/
 104.239.72.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=104.239.72.0  finalURL=https://www.acofork.com/
 104.254.140.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=104.254.140.0  finalURL=https://www.acofork.com/
-108.165.152.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=108.165.152.0  finalURL=https://www.acofork.com/
+108.165.152.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=108.165.152.0  finalURL=https://www.acofork.com/
 109.61.104.0  ver=v4  tcp=FAIL  latency=-  http=skip
 109.120.143.0  ver=v4  tcp=FAIL  latency=-  http=skip
 114.129.43.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=114.129.43.0  finalURL=https://www.acofork.com/
@@ -130,38 +130,38 @@
 130.108.121.0  ver=v4  tcp=FAIL  latency=-  http=skip
 136.143.138.0  ver=v4  tcp=FAIL  latency=-  http=skip
 138.5.248.0  ver=v4  tcp=FAIL  latency=-  http=skip
-139.64.234.0  ver=v4  tcp=OK  latency=4ms  http=000  remote=139.64.234.0  finalURL=https://www.acofork.com/
-139.64.235.0  ver=v4  tcp=OK  latency=4ms  http=200  remote=139.64.235.0  finalURL=https://www.acofork.com/
-141.11.202.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=141.11.202.0  finalURL=https://www.acofork.com/
-141.193.213.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=141.193.213.0  finalURL=https://www.acofork.com/
+139.64.234.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=139.64.234.0  finalURL=https://www.acofork.com/
+139.64.235.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=139.64.235.0  finalURL=https://www.acofork.com/
+141.11.202.0  ver=v4  tcp=OK  latency=4ms  http=200  remote=141.11.202.0  finalURL=https://www.acofork.com/
+141.193.213.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=141.193.213.0  finalURL=https://www.acofork.com/
 144.124.210.0  ver=v4  tcp=FAIL  latency=-  http=skip
 144.124.213.0  ver=v4  tcp=FAIL  latency=-  http=skip
-147.78.140.0  ver=v4  tcp=OK  latency=4ms  http=200  remote=147.78.140.0  finalURL=https://www.acofork.com/
+147.78.140.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=147.78.140.0  finalURL=https://www.acofork.com/
 147.185.161.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=147.185.161.0  finalURL=https://www.acofork.com/
 154.51.129.0  ver=v4  tcp=FAIL  latency=-  http=skip
 154.51.160.0  ver=v4  tcp=FAIL  latency=-  http=skip
 154.62.129.0  ver=v4  tcp=FAIL  latency=-  http=skip
-154.83.2.0  ver=v4  tcp=OK  latency=4ms  http=200  remote=154.83.2.0  finalURL=https://www.acofork.com/
+154.83.2.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=154.83.2.0  finalURL=https://www.acofork.com/
 154.83.22.0  ver=v4  tcp=FAIL  latency=-  http=skip
 154.83.30.0  ver=v4  tcp=FAIL  latency=-  http=skip
 154.84.14.0  ver=v4  tcp=FAIL  latency=-  http=skip
 154.84.16.0  ver=v4  tcp=FAIL  latency=-  http=skip
 154.84.24.0  ver=v4  tcp=FAIL  latency=-  http=skip
 154.92.9.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=154.92.9.0  finalURL=https://www.acofork.com/
-154.194.12.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=154.194.12.0  finalURL=https://www.acofork.com/
-154.197.64.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=154.197.64.0  finalURL=https://www.acofork.com/
+154.194.12.0  ver=v4  tcp=OK  latency=4ms  http=200  remote=154.194.12.0  finalURL=https://www.acofork.com/
+154.197.64.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=154.197.64.0  finalURL=https://www.acofork.com/
 154.197.65.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=154.197.65.0  finalURL=https://www.acofork.com/
-154.197.75.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=154.197.75.0  finalURL=https://www.acofork.com/
+154.197.75.0  ver=v4  tcp=OK  latency=1ms  http=200  remote=154.197.75.0  finalURL=https://www.acofork.com/
 154.198.173.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=154.198.173.0  finalURL=https://www.acofork.com/
 154.202.89.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=154.202.89.0  finalURL=https://www.acofork.com/
 154.206.12.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=154.206.12.0  finalURL=https://www.acofork.com/
-154.211.8.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=154.211.8.0  finalURL=https://www.acofork.com/
+154.211.8.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=154.211.8.0  finalURL=https://www.acofork.com/
 155.46.167.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=155.46.167.0  finalURL=https://www.acofork.com/
-155.46.213.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=155.46.213.0  finalURL=https://www.acofork.com/
-156.243.246.0  ver=v4  tcp=OK  latency=4ms  http=200  remote=156.243.246.0  finalURL=https://www.acofork.com/
-156.252.2.0  ver=v4  tcp=OK  latency=10ms  http=403  remote=156.252.2.0  finalURL=https://www.acofork.com/
+155.46.213.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=155.46.213.0  finalURL=https://www.acofork.com/
+156.243.246.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=156.243.246.0  finalURL=https://www.acofork.com/
+156.252.2.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=156.252.2.0  finalURL=https://www.acofork.com/
 159.112.235.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=159.112.235.0  finalURL=https://www.acofork.com/
-159.246.55.0  ver=v4  tcp=OK  latency=6ms  http=200  remote=159.246.55.0  finalURL=https://www.acofork.com/
+159.246.55.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=159.246.55.0  finalURL=https://www.acofork.com/
 160.153.0.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=160.153.0.0  finalURL=https://www.acofork.com/
 162.44.32.0  ver=v4  tcp=FAIL  latency=-  http=skip
 162.44.118.0  ver=v4  tcp=FAIL  latency=-  http=skip
@@ -171,61 +171,61 @@
 164.38.155.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=164.38.155.0  finalURL=https://www.acofork.com/
 167.1.148.0  ver=v4  tcp=FAIL  latency=-  http=skip
 167.1.181.0  ver=v4  tcp=FAIL  latency=-  http=skip
-167.68.4.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=167.68.4.0  finalURL=https://www.acofork.com/
-167.68.5.0  ver=v4  tcp=OK  latency=4ms  http=200  remote=167.68.5.0  finalURL=https://www.acofork.com/
-167.68.11.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=167.68.11.0  finalURL=https://www.acofork.com/
-167.68.42.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=167.68.42.0  finalURL=https://www.acofork.com/
+167.68.4.0  ver=v4  tcp=OK  latency=1ms  http=200  remote=167.68.4.0  finalURL=https://www.acofork.com/
+167.68.5.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=167.68.5.0  finalURL=https://www.acofork.com/
+167.68.11.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=167.68.11.0  finalURL=https://www.acofork.com/
+167.68.42.0  ver=v4  tcp=OK  latency=4ms  http=200  remote=167.68.42.0  finalURL=https://www.acofork.com/
 170.114.45.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=170.114.45.0  finalURL=https://www.acofork.com/
 170.114.46.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=170.114.46.0  finalURL=https://www.acofork.com/
-170.114.52.0  ver=v4  tcp=OK  latency=3ms  http=000  remote=170.114.52.0  finalURL=https://www.acofork.com/
+170.114.52.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=170.114.52.0  finalURL=https://www.acofork.com/
 170.114.78.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=170.114.78.0  finalURL=https://www.acofork.com/
-170.176.152.0  ver=v4  tcp=OK  latency=5ms  http=000  remote=170.176.152.0  finalURL=https://www.acofork.com/
+170.176.152.0  ver=v4  tcp=OK  latency=3ms  http=000  remote=170.176.152.0  finalURL=https://www.acofork.com/
 172.83.72.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=172.83.72.0  finalURL=https://www.acofork.com/
-172.83.73.0  ver=v4  tcp=OK  latency=4ms  http=403  remote=172.83.73.0  finalURL=https://www.acofork.com/
-172.83.76.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=172.83.76.0  finalURL=https://www.acofork.com/
+172.83.73.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=172.83.73.0  finalURL=https://www.acofork.com/
+172.83.76.0  ver=v4  tcp=OK  latency=1ms  http=000  remote=172.83.76.0  finalURL=https://www.acofork.com/
 176.124.223.0  ver=v4  tcp=FAIL  latency=-  http=skip
 176.126.206.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=176.126.206.0  finalURL=https://www.acofork.com/
 178.211.142.0  ver=v4  tcp=FAIL  latency=-  http=skip
 178.213.76.0  ver=v4  tcp=FAIL  latency=-  http=skip
-181.214.1.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=181.214.1.0  finalURL=https://www.acofork.com/
+181.214.1.0  ver=v4  tcp=OK  latency=1ms  http=200  remote=181.214.1.0  finalURL=https://www.acofork.com/
 185.7.190.0  ver=v4  tcp=FAIL  latency=-  http=skip
 185.18.250.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=185.18.250.0  finalURL=https://www.acofork.com/
-185.38.135.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=185.38.135.0  finalURL=https://www.acofork.com/
+185.38.135.0  ver=v4  tcp=OK  latency=1ms  http=403  remote=185.38.135.0  finalURL=https://www.acofork.com/
 185.59.218.0  ver=v4  tcp=FAIL  latency=-  http=skip
 185.84.67.0  ver=v4  tcp=FAIL  latency=-  http=skip
 185.124.66.0  ver=v4  tcp=FAIL  latency=-  http=skip
 185.135.9.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=185.135.9.0  finalURL=https://www.acofork.com/
 185.148.104.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=185.148.104.0  finalURL=https://www.acofork.com/
 185.148.105.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=185.148.105.0  finalURL=https://www.acofork.com/
-185.148.106.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=185.148.106.0  finalURL=https://www.acofork.com/
-185.148.107.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=185.148.107.0  finalURL=https://www.acofork.com/
+185.148.106.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=185.148.106.0  finalURL=https://www.acofork.com/
+185.148.107.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=185.148.107.0  finalURL=https://www.acofork.com/
 185.159.247.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=185.159.247.0  finalURL=https://www.acofork.com/
 185.162.228.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=185.162.228.0  finalURL=https://www.acofork.com/
-185.162.230.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=185.162.230.0  finalURL=https://www.acofork.com/
+185.162.230.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=185.162.230.0  finalURL=https://www.acofork.com/
 185.170.166.0  ver=v4  tcp=FAIL  latency=-  http=skip
 185.207.92.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=185.207.92.0  finalURL=https://www.acofork.com/
 185.209.154.0  ver=v4  tcp=FAIL  latency=-  http=skip
-188.42.88.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=188.42.88.0  finalURL=https://www.acofork.com/
-188.42.89.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=188.42.89.0  finalURL=https://www.acofork.com/
+188.42.88.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=188.42.88.0  finalURL=https://www.acofork.com/
+188.42.89.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=188.42.89.0  finalURL=https://www.acofork.com/
 188.42.145.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=188.42.145.0  finalURL=https://www.acofork.com/
-188.164.248.0  ver=v4  tcp=OK  latency=4ms  http=200  remote=188.164.248.0  finalURL=https://www.acofork.com/
-188.244.122.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=188.244.122.0  finalURL=https://www.acofork.com/
-192.65.217.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=192.65.217.0  finalURL=https://www.acofork.com/
+188.164.248.0  ver=v4  tcp=OK  latency=1ms  http=200  remote=188.164.248.0  finalURL=https://www.acofork.com/
+188.244.122.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=188.244.122.0  finalURL=https://www.acofork.com/
+192.65.217.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=192.65.217.0  finalURL=https://www.acofork.com/
 192.133.11.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=192.133.11.0  finalURL=https://www.acofork.com/
 192.152.138.0  ver=v4  tcp=FAIL  latency=-  http=skip
-192.236.26.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=192.236.26.0  finalURL=https://www.acofork.com/
-193.9.49.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=193.9.49.0  finalURL=https://www.acofork.com/
+192.236.26.0  ver=v4  tcp=OK  latency=3ms  http=000  remote=192.236.26.0  finalURL=https://www.acofork.com/
+193.9.49.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=193.9.49.0  finalURL=https://www.acofork.com/
 193.16.63.0  ver=v4  tcp=FAIL  latency=-  http=skip
 193.17.206.0  ver=v4  tcp=FAIL  latency=-  http=skip
 193.22.229.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=193.22.229.0  finalURL=https://www.acofork.com/
 193.67.144.0  ver=v4  tcp=FAIL  latency=-  http=skip
 193.162.35.0  ver=v4  tcp=FAIL  latency=-  http=skip
 193.200.166.0  ver=v4  tcp=FAIL  latency=-  http=skip
-193.227.99.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=193.227.99.0  finalURL=https://www.acofork.com/
+193.227.99.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=193.227.99.0  finalURL=https://www.acofork.com/
 194.1.194.0  ver=v4  tcp=FAIL  latency=-  http=skip
 194.26.68.0  ver=v4  tcp=FAIL  latency=-  http=skip
 194.36.49.0  ver=v4  tcp=OK  latency=3ms  http=000  remote=194.36.49.0  finalURL=https://www.acofork.com/
-194.36.55.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=194.36.55.0  finalURL=https://www.acofork.com/
+194.36.55.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=194.36.55.0  finalURL=https://www.acofork.com/
 194.36.216.0  ver=v4  tcp=FAIL  latency=-  http=skip
 194.36.217.0  ver=v4  tcp=FAIL  latency=-  http=skip
 194.36.218.0  ver=v4  tcp=FAIL  latency=-  http=skip
@@ -233,62 +233,62 @@
 194.39.112.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=194.39.112.0  finalURL=https://www.acofork.com/
 194.53.53.0  ver=v4  tcp=FAIL  latency=-  http=skip
 194.59.5.0  ver=v4  tcp=FAIL  latency=-  http=skip
-194.113.223.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=194.113.223.0  finalURL=https://www.acofork.com/
-194.152.44.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=194.152.44.0  finalURL=https://www.acofork.com/
+194.113.223.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=194.113.223.0  finalURL=https://www.acofork.com/
+194.152.44.0  ver=v4  tcp=OK  latency=1ms  http=200  remote=194.152.44.0  finalURL=https://www.acofork.com/
 194.169.194.0  ver=v4  tcp=FAIL  latency=-  http=skip
 195.13.44.0  ver=v4  tcp=FAIL  latency=-  http=skip
 195.26.229.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=195.26.229.0  finalURL=https://www.acofork.com/
 195.28.190.0  ver=v4  tcp=FAIL  latency=-  http=skip
 195.28.191.0  ver=v4  tcp=FAIL  latency=-  http=skip
-195.85.23.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=195.85.23.0  finalURL=https://www.acofork.com/
-195.85.59.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=195.85.59.0  finalURL=https://www.acofork.com/
+195.85.23.0  ver=v4  tcp=OK  latency=1ms  http=200  remote=195.85.23.0  finalURL=https://www.acofork.com/
+195.85.59.0  ver=v4  tcp=OK  latency=1ms  http=200  remote=195.85.59.0  finalURL=https://www.acofork.com/
 195.189.177.0  ver=v4  tcp=FAIL  latency=-  http=skip
 195.245.221.0  ver=v4  tcp=FAIL  latency=-  http=skip
 195.250.46.0  ver=v4  tcp=FAIL  latency=-  http=skip
-196.13.241.0  ver=v4  tcp=OK  latency=4ms  http=403  remote=196.13.241.0  finalURL=https://www.acofork.com/
+196.13.241.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=196.13.241.0  finalURL=https://www.acofork.com/
 196.207.45.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=196.207.45.0  finalURL=https://www.acofork.com/
-198.177.56.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=198.177.56.0  finalURL=https://www.acofork.com/
-198.177.57.0  ver=v4  tcp=OK  latency=6ms  http=200  remote=198.177.57.0  finalURL=https://www.acofork.com/
-198.202.211.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=198.202.211.0  finalURL=https://www.acofork.com/
-199.5.242.0  ver=v4  tcp=OK  latency=5ms  http=000  remote=199.5.242.0  finalURL=https://www.acofork.com/
+198.177.56.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=198.177.56.0  finalURL=https://www.acofork.com/
+198.177.57.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=198.177.57.0  finalURL=https://www.acofork.com/
+198.202.211.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=198.202.211.0  finalURL=https://www.acofork.com/
+199.5.242.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=199.5.242.0  finalURL=https://www.acofork.com/
 199.33.230.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=199.33.230.0  finalURL=https://www.acofork.com/
-199.33.231.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=199.33.231.0  finalURL=https://www.acofork.com/
-199.33.232.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=199.33.232.0  finalURL=https://www.acofork.com/
-199.33.233.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=199.33.233.0  finalURL=https://www.acofork.com/
-199.60.103.0  ver=v4  tcp=OK  latency=4ms  http=403  remote=199.60.103.0  finalURL=https://www.acofork.com/
-199.181.197.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=199.181.197.0  finalURL=https://www.acofork.com/
+199.33.231.0  ver=v4  tcp=OK  latency=1ms  http=200  remote=199.33.231.0  finalURL=https://www.acofork.com/
+199.33.232.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=199.33.232.0  finalURL=https://www.acofork.com/
+199.33.233.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=199.33.233.0  finalURL=https://www.acofork.com/
+199.60.103.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=199.60.103.0  finalURL=https://www.acofork.com/
+199.181.197.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=199.181.197.0  finalURL=https://www.acofork.com/
 200.73.67.0  ver=v4  tcp=FAIL  latency=-  http=skip
 202.37.197.0  ver=v4  tcp=FAIL  latency=-  http=skip
 202.45.130.0  ver=v4  tcp=FAIL  latency=-  http=skip
 202.82.250.0  ver=v4  tcp=FAIL  latency=-  http=skip
 203.6.66.0  ver=v4  tcp=FAIL  latency=-  http=skip
 203.6.74.0  ver=v4  tcp=FAIL  latency=-  http=skip
-203.13.32.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=203.13.32.0  finalURL=https://www.acofork.com/
-203.17.126.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.17.126.0  finalURL=https://www.acofork.com/
+203.13.32.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.13.32.0  finalURL=https://www.acofork.com/
+203.17.126.0  ver=v4  tcp=OK  latency=1ms  http=403  remote=203.17.126.0  finalURL=https://www.acofork.com/
 203.19.222.0  ver=v4  tcp=FAIL  latency=-  http=skip
-203.22.223.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=203.22.223.0  finalURL=https://www.acofork.com/
-203.22.241.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=203.22.241.0  finalURL=https://www.acofork.com/
+203.22.223.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.22.223.0  finalURL=https://www.acofork.com/
+203.22.241.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.22.241.0  finalURL=https://www.acofork.com/
 203.23.103.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.23.103.0  finalURL=https://www.acofork.com/
 203.23.104.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.23.104.0  finalURL=https://www.acofork.com/
-203.23.106.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=203.23.106.0  finalURL=https://www.acofork.com/
-203.24.102.0  ver=v4  tcp=OK  latency=6ms  http=403  remote=203.24.102.0  finalURL=https://www.acofork.com/
+203.23.106.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.23.106.0  finalURL=https://www.acofork.com/
+203.24.102.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.24.102.0  finalURL=https://www.acofork.com/
 203.24.103.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.24.103.0  finalURL=https://www.acofork.com/
 203.24.108.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=203.24.108.0  finalURL=https://www.acofork.com/
 203.24.109.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.24.109.0  finalURL=https://www.acofork.com/
-203.28.8.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=203.28.8.0  finalURL=https://www.acofork.com/
+203.28.8.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.28.8.0  finalURL=https://www.acofork.com/
 203.28.9.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.28.9.0  finalURL=https://www.acofork.com/
-203.29.52.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.29.52.0  finalURL=https://www.acofork.com/
+203.29.52.0  ver=v4  tcp=OK  latency=11ms  http=403  remote=203.29.52.0  finalURL=https://www.acofork.com/
 203.29.53.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.29.53.0  finalURL=https://www.acofork.com/
 203.29.54.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=203.29.54.0  finalURL=https://www.acofork.com/
-203.30.188.0  ver=v4  tcp=OK  latency=1ms  http=403  remote=203.30.188.0  finalURL=https://www.acofork.com/
-203.32.120.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=203.32.120.0  finalURL=https://www.acofork.com/
+203.30.188.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.30.188.0  finalURL=https://www.acofork.com/
+203.32.120.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.32.120.0  finalURL=https://www.acofork.com/
 203.34.28.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.34.28.0  finalURL=https://www.acofork.com/
 203.34.80.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.34.80.0  finalURL=https://www.acofork.com/
 203.55.107.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.55.107.0  finalURL=https://www.acofork.com/
 203.89.5.0  ver=v4  tcp=FAIL  latency=-  http=skip
 204.62.141.0  ver=v4  tcp=FAIL  latency=-  http=skip
-205.233.181.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=205.233.181.0  finalURL=https://www.acofork.com/
-207.189.149.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=207.189.149.0  finalURL=https://www.acofork.com/
+205.233.181.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=205.233.181.0  finalURL=https://www.acofork.com/
+207.189.149.0  ver=v4  tcp=OK  latency=3ms  http=000  remote=207.189.149.0  finalURL=https://www.acofork.com/
 208.42.188.0  ver=v4  tcp=FAIL  latency=-  http=skip
 208.77.33.0  ver=v4  tcp=FAIL  latency=-  http=skip
 208.77.35.0  ver=v4  tcp=FAIL  latency=-  http=skip
@@ -300,11 +300,11 @@
 212.239.86.0  ver=v4  tcp=FAIL  latency=-  http=skip
 213.182.199.0  ver=v4  tcp=FAIL  latency=-  http=skip
 213.182.210.0  ver=v4  tcp=FAIL  latency=-  http=skip
-213.241.198.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=213.241.198.0  finalURL=https://www.acofork.com/
+213.241.198.0  ver=v4  tcp=OK  latency=1ms  http=200  remote=213.241.198.0  finalURL=https://www.acofork.com/
 216.120.131.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=216.120.131.0  finalURL=https://www.acofork.com/
-216.120.180.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=216.120.180.0  finalURL=https://www.acofork.com/
+216.120.180.0  ver=v4  tcp=OK  latency=3ms  http=000  remote=216.120.180.0  finalURL=https://www.acofork.com/
 216.154.208.0  ver=v4  tcp=FAIL  latency=-  http=skip
-216.198.53.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=216.198.53.0  finalURL=https://www.acofork.com/
+216.198.53.0  ver=v4  tcp=OK  latency=1ms  http=403  remote=216.198.53.0  finalURL=https://www.acofork.com/
 216.198.54.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=216.198.54.0  finalURL=https://www.acofork.com/
 216.205.52.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=216.205.52.0  finalURL=https://www.acofork.com/
 223.27.176.0  ver=v4  tcp=FAIL  latency=-  http=skip
