@@ -23,8 +23,8 @@ const config = {
   ipv4File: 'ipv4.txt',   // 非根随机版 IPv4
   ipv6File: 'ipv6.txt',   // 非根随机版 IPv6
   logFile: 'log.txt',
-  host: 'www.acofork.com',
-  url: 'https://www.acofork.com/',
+  host: 'axisnow-health.106938.xyz',
+  url: 'https://axisnow-health.106938.xyz/health.txt',
   retry: 5,           // TCP 探活失败重试次数
   tcpPort: 443,
   tcpTimeout: 2000,   // 单次握手超时(毫秒)
