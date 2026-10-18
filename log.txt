@@ -1,38 +1,38 @@
 5.10.244.0  ver=v4  tcp=OK  latency=7ms  http=200  remote=5.10.244.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-5.175.141.0  ver=v4  tcp=OK  latency=14ms  http=200  remote=5.175.141.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-5.226.179.0  ver=v4  tcp=OK  latency=9ms  http=403  remote=5.226.179.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-5.226.181.0  ver=v4  tcp=OK  latency=8ms  http=000  remote=5.226.181.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-14.102.228.0  ver=v4  tcp=OK  latency=32ms  http=200  remote=14.102.228.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+5.175.141.0  ver=v4  tcp=OK  latency=15ms  http=200  remote=5.175.141.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+5.226.179.0  ver=v4  tcp=OK  latency=16ms  http=403  remote=5.226.179.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+5.226.181.0  ver=v4  tcp=OK  latency=11ms  http=000  remote=5.226.181.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+14.102.228.0  ver=v4  tcp=OK  latency=7ms  http=200  remote=14.102.228.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 23.145.232.0  ver=v4  tcp=FAIL  latency=-  http=skip
-23.167.152.0  ver=v4  tcp=OK  latency=10ms  http=000  remote=23.167.152.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+23.167.152.0  ver=v4  tcp=OK  latency=22ms  http=000  remote=23.167.152.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 23.178.112.0  ver=v4  tcp=FAIL  latency=-  http=skip
-23.247.163.0  ver=v4  tcp=OK  latency=7ms  http=403  remote=23.247.163.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-25.25.25.0  ver=v4  tcp=OK  latency=27ms  http=000  remote=25.25.25.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-25.26.27.0  ver=v4  tcp=OK  latency=48ms  http=000  remote=25.26.27.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+23.247.163.0  ver=v4  tcp=OK  latency=8ms  http=403  remote=23.247.163.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+25.25.25.0  ver=v4  tcp=OK  latency=18ms  http=000  remote=25.25.25.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+25.26.27.0  ver=v4  tcp=OK  latency=27ms  http=000  remote=25.26.27.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 25.129.196.0  ver=v4  tcp=FAIL  latency=-  http=skip
 25.129.198.0  ver=v4  tcp=FAIL  latency=-  http=skip
-27.50.48.0  ver=v4  tcp=OK  latency=38ms  http=200  remote=27.50.48.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-27.50.49.0  ver=v4  tcp=OK  latency=12ms  http=200  remote=27.50.49.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-31.12.75.0  ver=v4  tcp=OK  latency=27ms  http=200  remote=31.12.75.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-31.43.179.0  ver=v4  tcp=OK  latency=46ms  http=200  remote=31.43.179.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+27.50.48.0  ver=v4  tcp=OK  latency=13ms  http=200  remote=27.50.48.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+27.50.49.0  ver=v4  tcp=OK  latency=14ms  http=200  remote=27.50.49.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+31.12.75.0  ver=v4  tcp=OK  latency=54ms  http=200  remote=31.12.75.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+31.43.179.0  ver=v4  tcp=OK  latency=40ms  http=200  remote=31.43.179.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 42.201.8.0  ver=v4  tcp=FAIL  latency=-  http=skip
 42.201.16.0  ver=v4  tcp=FAIL  latency=-  http=skip
 44.31.142.0  ver=v4  tcp=FAIL  latency=-  http=skip
 45.8.211.0  ver=v4  tcp=FAIL  latency=-  http=skip
-45.12.30.0  ver=v4  tcp=OK  latency=18ms  http=200  remote=45.12.30.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-45.80.108.0  ver=v4  tcp=OK  latency=41ms  http=200  remote=45.80.108.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+45.12.30.0  ver=v4  tcp=OK  latency=40ms  http=200  remote=45.12.30.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+45.80.108.0  ver=v4  tcp=OK  latency=32ms  http=200  remote=45.80.108.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 45.80.109.0  ver=v4  tcp=FAIL  latency=-  http=skip
-45.80.110.0  ver=v4  tcp=OK  latency=15ms  http=200  remote=45.80.110.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-45.80.111.0  ver=v4  tcp=OK  latency=23ms  http=200  remote=45.80.111.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-45.81.58.0  ver=v4  tcp=OK  latency=42ms  http=200  remote=45.81.58.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-45.95.241.0  ver=v4  tcp=OK  latency=34ms  http=403  remote=45.95.241.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+45.80.110.0  ver=v4  tcp=OK  latency=24ms  http=200  remote=45.80.110.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+45.80.111.0  ver=v4  tcp=OK  latency=52ms  http=200  remote=45.80.111.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+45.81.58.0  ver=v4  tcp=OK  latency=48ms  http=200  remote=45.81.58.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+45.95.241.0  ver=v4  tcp=OK  latency=49ms  http=403  remote=45.95.241.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 45.128.224.0  ver=v4  tcp=FAIL  latency=-  http=skip
-45.131.4.0  ver=v4  tcp=OK  latency=21ms  http=200  remote=45.131.4.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-45.131.208.0  ver=v4  tcp=OK  latency=7ms  http=200  remote=45.131.208.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-45.135.235.0  ver=v4  tcp=OK  latency=4ms  http=200  remote=45.135.235.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-45.142.120.0  ver=v4  tcp=OK  latency=8ms  http=200  remote=45.142.120.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+45.131.4.0  ver=v4  tcp=OK  latency=31ms  http=200  remote=45.131.4.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+45.131.208.0  ver=v4  tcp=OK  latency=9ms  http=200  remote=45.131.208.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+45.135.235.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=45.135.235.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+45.142.120.0  ver=v4  tcp=OK  latency=5ms  http=200  remote=45.142.120.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 45.146.201.0  ver=v4  tcp=FAIL  latency=-  http=skip
-45.149.12.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=45.149.12.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+45.149.12.0  ver=v4  tcp=OK  latency=5ms  http=200  remote=45.149.12.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 45.194.53.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=45.194.53.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 45.205.0.0  ver=v4  tcp=FAIL  latency=-  http=skip
 46.202.30.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=46.202.30.0  finalURL=https://axisnow-health.106938.xyz/health.txt
@@ -43,30 +43,30 @@
 64.69.24.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=64.69.24.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 64.112.117.0  ver=v4  tcp=FAIL  latency=-  http=skip
 65.205.150.0  ver=v4  tcp=FAIL  latency=-  http=skip
-66.45.118.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=66.45.118.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-66.81.247.0  ver=v4  tcp=OK  latency=4ms  http=200  remote=66.81.247.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+66.45.118.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=66.45.118.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+66.81.247.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=66.81.247.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 66.81.255.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=66.81.255.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 66.94.32.0  ver=v4  tcp=FAIL  latency=-  http=skip
 66.94.36.0  ver=v4  tcp=FAIL  latency=-  http=skip
 66.94.38.0  ver=v4  tcp=FAIL  latency=-  http=skip
 66.94.39.0  ver=v4  tcp=FAIL  latency=-  http=skip
 66.94.40.0  ver=v4  tcp=FAIL  latency=-  http=skip
-66.225.252.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=66.225.252.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+66.225.252.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=66.225.252.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 68.169.48.0  ver=v4  tcp=FAIL  latency=-  http=skip
 69.48.218.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=69.48.218.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 69.89.0.0  ver=v4  tcp=FAIL  latency=-  http=skip
 72.52.113.0  ver=v4  tcp=FAIL  latency=-  http=skip
-74.49.214.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=74.49.214.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+74.49.214.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=74.49.214.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 74.204.59.0  ver=v4  tcp=FAIL  latency=-  http=skip
 74.205.180.0  ver=v4  tcp=FAIL  latency=-  http=skip
-77.37.33.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=77.37.33.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+77.37.33.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=77.37.33.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 77.74.228.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=77.74.228.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-77.75.199.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=77.75.199.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+77.75.199.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=77.75.199.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 77.81.50.0  ver=v4  tcp=FAIL  latency=-  http=skip
 77.232.140.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=77.232.140.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 77.232.141.0  ver=v4  tcp=FAIL  latency=-  http=skip
 80.83.188.0  ver=v4  tcp=FAIL  latency=-  http=skip
-80.93.202.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=80.93.202.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+80.93.202.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=80.93.202.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 83.118.224.0  ver=v4  tcp=FAIL  latency=-  http=skip
 83.118.226.0  ver=v4  tcp=FAIL  latency=-  http=skip
 85.237.216.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=85.237.216.0  finalURL=https://axisnow-health.106938.xyz/health.txt
@@ -75,65 +75,65 @@
 88.211.201.0  ver=v4  tcp=FAIL  latency=-  http=skip
 88.211.202.0  ver=v4  tcp=FAIL  latency=-  http=skip
 88.211.203.0  ver=v4  tcp=FAIL  latency=-  http=skip
-88.216.66.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=88.216.66.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+88.216.66.0  ver=v4  tcp=OK  latency=4ms  http=200  remote=88.216.66.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 89.40.171.0  ver=v4  tcp=FAIL  latency=-  http=skip
 89.47.56.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=89.47.56.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-89.116.46.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=89.116.46.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-89.116.161.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=89.116.161.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+89.116.46.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=89.116.46.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+89.116.161.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=89.116.161.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 89.116.180.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=89.116.180.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-89.116.250.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=89.116.250.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-89.117.112.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=89.117.112.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+89.116.250.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=89.116.250.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+89.117.112.0  ver=v4  tcp=OK  latency=1ms  http=200  remote=89.117.112.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 89.207.18.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=89.207.18.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 91.199.81.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=91.199.81.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-91.209.253.0  ver=v4  tcp=OK  latency=4ms  http=200  remote=91.209.253.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+91.209.253.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=91.209.253.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 92.53.188.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=92.53.188.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 92.60.74.0  ver=v4  tcp=FAIL  latency=-  http=skip
 93.113.129.0  ver=v4  tcp=FAIL  latency=-  http=skip
-93.114.64.0  ver=v4  tcp=OK  latency=1ms  http=403  remote=93.114.64.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+93.114.64.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=93.114.64.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 93.114.182.0  ver=v4  tcp=FAIL  latency=-  http=skip
-93.115.102.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=93.115.102.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+93.115.102.0  ver=v4  tcp=OK  latency=3ms  http=000  remote=93.115.102.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 93.152.234.0  ver=v4  tcp=FAIL  latency=-  http=skip
-94.140.0.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=94.140.0.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+94.140.0.0  ver=v4  tcp=OK  latency=5ms  http=200  remote=94.140.0.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 94.242.228.0  ver=v4  tcp=FAIL  latency=-  http=skip
 94.242.229.0  ver=v4  tcp=FAIL  latency=-  http=skip
 94.242.230.0  ver=v4  tcp=FAIL  latency=-  http=skip
 94.242.231.0  ver=v4  tcp=FAIL  latency=-  http=skip
 94.247.142.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=94.247.142.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 102.177.176.0  ver=v4  tcp=FAIL  latency=-  http=skip
-102.177.189.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=102.177.189.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-103.11.212.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=103.11.212.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-103.11.214.0  ver=v4  tcp=OK  latency=4ms  http=403  remote=103.11.214.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+102.177.189.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=102.177.189.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+103.11.212.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=103.11.212.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+103.11.214.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=103.11.214.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 103.15.85.0  ver=v4  tcp=FAIL  latency=-  http=skip
 103.19.144.0  ver=v4  tcp=FAIL  latency=-  http=skip
 103.112.176.0  ver=v4  tcp=FAIL  latency=-  http=skip
-103.116.7.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=103.116.7.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+103.116.7.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=103.116.7.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 103.121.59.0  ver=v4  tcp=FAIL  latency=-  http=skip
 103.133.1.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=103.133.1.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-103.169.142.0  ver=v4  tcp=OK  latency=4ms  http=200  remote=103.169.142.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+103.169.142.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=103.169.142.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 103.172.110.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=103.172.110.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-103.204.13.0  ver=v4  tcp=OK  latency=209ms  http=000  remote=103.204.13.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+103.204.13.0  ver=v4  tcp=OK  latency=273ms  http=000  remote=  finalURL=https://axisnow-health.106938.xyz/health.txt
 103.219.64.0  ver=v4  tcp=FAIL  latency=-  http=skip
 103.244.119.0  ver=v4  tcp=FAIL  latency=-  http=skip
-104.36.195.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=104.36.195.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+104.36.195.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=104.36.195.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 104.129.164.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=104.129.164.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 104.164.10.0  ver=v4  tcp=FAIL  latency=-  http=skip
 104.165.65.0  ver=v4  tcp=FAIL  latency=-  http=skip
 104.234.239.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=104.234.239.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-104.239.72.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=104.239.72.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+104.239.72.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=104.239.72.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 104.254.140.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=104.254.140.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 108.165.152.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=108.165.152.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 109.61.104.0  ver=v4  tcp=FAIL  latency=-  http=skip
 109.120.143.0  ver=v4  tcp=FAIL  latency=-  http=skip
-114.129.43.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=114.129.43.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+114.129.43.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=114.129.43.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 130.108.73.0  ver=v4  tcp=FAIL  latency=-  http=skip
 130.108.104.0  ver=v4  tcp=FAIL  latency=-  http=skip
 130.108.121.0  ver=v4  tcp=FAIL  latency=-  http=skip
 136.143.138.0  ver=v4  tcp=FAIL  latency=-  http=skip
 138.5.248.0  ver=v4  tcp=FAIL  latency=-  http=skip
-139.64.234.0  ver=v4  tcp=OK  latency=4ms  http=000  remote=139.64.234.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-139.64.235.0  ver=v4  tcp=OK  latency=4ms  http=200  remote=139.64.235.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+139.64.234.0  ver=v4  tcp=OK  latency=3ms  http=000  remote=139.64.234.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+139.64.235.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=139.64.235.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 141.11.202.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=141.11.202.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-141.193.213.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=141.193.213.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+141.193.213.0  ver=v4  tcp=OK  latency=4ms  http=200  remote=141.193.213.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 144.124.210.0  ver=v4  tcp=FAIL  latency=-  http=skip
 144.124.213.0  ver=v4  tcp=FAIL  latency=-  http=skip
 147.78.140.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=147.78.140.0  finalURL=https://axisnow-health.106938.xyz/health.txt
@@ -147,84 +147,84 @@
 154.84.14.0  ver=v4  tcp=FAIL  latency=-  http=skip
 154.84.16.0  ver=v4  tcp=FAIL  latency=-  http=skip
 154.84.24.0  ver=v4  tcp=FAIL  latency=-  http=skip
-154.92.9.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=154.92.9.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+154.92.9.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=154.92.9.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 154.194.12.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=154.194.12.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-154.197.64.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=154.197.64.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-154.197.65.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=154.197.65.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-154.197.75.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=154.197.75.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-154.198.173.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=154.198.173.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-154.202.89.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=154.202.89.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-154.206.12.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=154.206.12.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-154.211.8.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=154.211.8.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-155.46.167.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=155.46.167.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+154.197.64.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=154.197.64.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+154.197.65.0  ver=v4  tcp=OK  latency=1ms  http=200  remote=154.197.65.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+154.197.75.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=154.197.75.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+154.198.173.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=154.198.173.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+154.202.89.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=154.202.89.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+154.206.12.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=154.206.12.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+154.211.8.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=154.211.8.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+155.46.167.0  ver=v4  tcp=OK  latency=1ms  http=200  remote=155.46.167.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 155.46.213.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=155.46.213.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-156.243.246.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=156.243.246.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+156.243.246.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=156.243.246.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 156.252.2.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=156.252.2.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-159.112.235.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=159.112.235.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-159.246.55.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=159.246.55.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+159.112.235.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=159.112.235.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+159.246.55.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=159.246.55.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 160.153.0.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=160.153.0.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 162.44.32.0  ver=v4  tcp=FAIL  latency=-  http=skip
 162.44.118.0  ver=v4  tcp=FAIL  latency=-  http=skip
 162.44.208.0  ver=v4  tcp=FAIL  latency=-  http=skip
 162.120.94.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=162.120.94.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 162.159.225.0  ver=v4  tcp=FAIL  latency=-  http=skip
-164.38.155.0  ver=v4  tcp=OK  latency=6ms  http=200  remote=164.38.155.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+164.38.155.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=164.38.155.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 167.1.148.0  ver=v4  tcp=FAIL  latency=-  http=skip
 167.1.181.0  ver=v4  tcp=FAIL  latency=-  http=skip
 167.68.4.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=167.68.4.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-167.68.5.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=167.68.5.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+167.68.5.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=167.68.5.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 167.68.11.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=167.68.11.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 167.68.42.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=167.68.42.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 170.114.45.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=170.114.45.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-170.114.46.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=170.114.46.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-170.114.52.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=170.114.52.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+170.114.46.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=170.114.46.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+170.114.52.0  ver=v4  tcp=OK  latency=3ms  http=000  remote=170.114.52.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 170.114.78.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=170.114.78.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-170.176.152.0  ver=v4  tcp=OK  latency=3ms  http=000  remote=170.176.152.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+170.176.152.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=170.176.152.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 172.83.72.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=172.83.72.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-172.83.73.0  ver=v4  tcp=OK  latency=5ms  http=403  remote=172.83.73.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-172.83.76.0  ver=v4  tcp=OK  latency=3ms  http=000  remote=172.83.76.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+172.83.73.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=172.83.73.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+172.83.76.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=172.83.76.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 176.124.223.0  ver=v4  tcp=FAIL  latency=-  http=skip
 176.126.206.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=176.126.206.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 178.211.142.0  ver=v4  tcp=FAIL  latency=-  http=skip
 178.213.76.0  ver=v4  tcp=FAIL  latency=-  http=skip
-181.214.1.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=181.214.1.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+181.214.1.0  ver=v4  tcp=OK  latency=4ms  http=200  remote=181.214.1.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 185.7.190.0  ver=v4  tcp=FAIL  latency=-  http=skip
 185.18.250.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=185.18.250.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-185.38.135.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=185.38.135.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+185.38.135.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=185.38.135.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 185.59.218.0  ver=v4  tcp=FAIL  latency=-  http=skip
 185.84.67.0  ver=v4  tcp=FAIL  latency=-  http=skip
 185.124.66.0  ver=v4  tcp=FAIL  latency=-  http=skip
-185.135.9.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=185.135.9.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+185.135.9.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=185.135.9.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 185.148.104.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=185.148.104.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 185.148.105.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=185.148.105.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-185.148.106.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=185.148.106.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+185.148.106.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=185.148.106.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 185.148.107.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=185.148.107.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 185.159.247.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=185.159.247.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-185.162.228.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=185.162.228.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+185.162.228.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=185.162.228.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 185.162.230.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=185.162.230.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 185.170.166.0  ver=v4  tcp=FAIL  latency=-  http=skip
-185.207.92.0  ver=v4  tcp=OK  latency=3ms  http=000  remote=185.207.92.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+185.207.92.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=185.207.92.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 185.209.154.0  ver=v4  tcp=FAIL  latency=-  http=skip
-188.42.88.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=188.42.88.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+188.42.88.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=188.42.88.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 188.42.89.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=188.42.89.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 188.42.145.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=188.42.145.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-188.164.248.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=188.164.248.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+188.164.248.0  ver=v4  tcp=OK  latency=1ms  http=200  remote=188.164.248.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 188.244.122.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=188.244.122.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 192.65.217.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=192.65.217.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 192.133.11.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=192.133.11.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 192.152.138.0  ver=v4  tcp=FAIL  latency=-  http=skip
-192.236.26.0  ver=v4  tcp=OK  latency=4ms  http=000  remote=192.236.26.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-193.9.49.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=193.9.49.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+192.236.26.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=192.236.26.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+193.9.49.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=193.9.49.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 193.16.63.0  ver=v4  tcp=FAIL  latency=-  http=skip
 193.17.206.0  ver=v4  tcp=FAIL  latency=-  http=skip
 193.22.229.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=193.22.229.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 193.67.144.0  ver=v4  tcp=FAIL  latency=-  http=skip
 193.162.35.0  ver=v4  tcp=FAIL  latency=-  http=skip
 193.200.166.0  ver=v4  tcp=FAIL  latency=-  http=skip
-193.227.99.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=193.227.99.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+193.227.99.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=193.227.99.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 194.1.194.0  ver=v4  tcp=FAIL  latency=-  http=skip
 194.26.68.0  ver=v4  tcp=FAIL  latency=-  http=skip
-194.36.49.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=194.36.49.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+194.36.49.0  ver=v4  tcp=OK  latency=3ms  http=000  remote=194.36.49.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 194.36.55.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=194.36.55.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 194.36.216.0  ver=v4  tcp=FAIL  latency=-  http=skip
 194.36.217.0  ver=v4  tcp=FAIL  latency=-  http=skip
@@ -233,58 +233,58 @@
 194.39.112.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=194.39.112.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 194.53.53.0  ver=v4  tcp=FAIL  latency=-  http=skip
 194.59.5.0  ver=v4  tcp=FAIL  latency=-  http=skip
-194.113.223.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=194.113.223.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+194.113.223.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=194.113.223.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 194.152.44.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=194.152.44.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 194.169.194.0  ver=v4  tcp=FAIL  latency=-  http=skip
 195.13.44.0  ver=v4  tcp=FAIL  latency=-  http=skip
-195.26.229.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=195.26.229.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+195.26.229.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=195.26.229.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 195.28.190.0  ver=v4  tcp=FAIL  latency=-  http=skip
 195.28.191.0  ver=v4  tcp=FAIL  latency=-  http=skip
-195.85.23.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=195.85.23.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-195.85.59.0  ver=v4  tcp=OK  latency=4ms  http=200  remote=195.85.59.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+195.85.23.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=195.85.23.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+195.85.59.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=195.85.59.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 195.189.177.0  ver=v4  tcp=FAIL  latency=-  http=skip
 195.245.221.0  ver=v4  tcp=FAIL  latency=-  http=skip
 195.250.46.0  ver=v4  tcp=FAIL  latency=-  http=skip
 196.13.241.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=196.13.241.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-196.207.45.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=196.207.45.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-198.177.56.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=198.177.56.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-198.177.57.0  ver=v4  tcp=OK  latency=4ms  http=200  remote=198.177.57.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-198.202.211.0  ver=v4  tcp=OK  latency=1ms  http=200  remote=198.202.211.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-199.5.242.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=199.5.242.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+196.207.45.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=196.207.45.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+198.177.56.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=198.177.56.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+198.177.57.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=198.177.57.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+198.202.211.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=198.202.211.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+199.5.242.0  ver=v4  tcp=OK  latency=1ms  http=000  remote=199.5.242.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 199.33.230.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=199.33.230.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-199.33.231.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=199.33.231.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+199.33.231.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=199.33.231.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 199.33.232.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=199.33.232.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 199.33.233.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=199.33.233.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-199.60.103.0  ver=v4  tcp=OK  latency=4ms  http=403  remote=199.60.103.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-199.181.197.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=199.181.197.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+199.60.103.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=199.60.103.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+199.181.197.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=199.181.197.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 200.73.67.0  ver=v4  tcp=FAIL  latency=-  http=skip
 202.37.197.0  ver=v4  tcp=FAIL  latency=-  http=skip
 202.45.130.0  ver=v4  tcp=FAIL  latency=-  http=skip
 202.82.250.0  ver=v4  tcp=FAIL  latency=-  http=skip
 203.6.66.0  ver=v4  tcp=FAIL  latency=-  http=skip
 203.6.74.0  ver=v4  tcp=FAIL  latency=-  http=skip
-203.13.32.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.13.32.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-203.17.126.0  ver=v4  tcp=OK  latency=4ms  http=403  remote=203.17.126.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+203.13.32.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=203.13.32.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+203.17.126.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.17.126.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 203.19.222.0  ver=v4  tcp=FAIL  latency=-  http=skip
 203.22.223.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.22.223.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 203.22.241.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.22.241.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 203.23.103.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.23.103.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-203.23.104.0  ver=v4  tcp=OK  latency=1ms  http=403  remote=203.23.104.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-203.23.106.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.23.106.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-203.24.102.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=203.24.102.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-203.24.103.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=203.24.103.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-203.24.108.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=203.24.108.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+203.23.104.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.23.104.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+203.23.106.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=203.23.106.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+203.24.102.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.24.102.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+203.24.103.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.24.103.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+203.24.108.0  ver=v4  tcp=OK  latency=1ms  http=403  remote=203.24.108.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 203.24.109.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=203.24.109.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 203.28.8.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=203.28.8.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-203.28.9.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=203.28.9.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+203.28.9.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.28.9.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 203.29.52.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.29.52.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-203.29.53.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.29.53.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-203.29.54.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.29.54.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-203.30.188.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=203.30.188.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-203.32.120.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=203.32.120.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+203.29.53.0  ver=v4  tcp=OK  latency=5ms  http=403  remote=203.29.53.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+203.29.54.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=203.29.54.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+203.30.188.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.30.188.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+203.32.120.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.32.120.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 203.34.28.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.34.28.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 203.34.80.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.34.80.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-203.55.107.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=203.55.107.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+203.55.107.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=203.55.107.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 203.89.5.0  ver=v4  tcp=FAIL  latency=-  http=skip
 204.62.141.0  ver=v4  tcp=FAIL  latency=-  http=skip
 205.233.181.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=205.233.181.0  finalURL=https://axisnow-health.106938.xyz/health.txt
@@ -293,20 +293,20 @@
 208.77.33.0  ver=v4  tcp=FAIL  latency=-  http=skip
 208.77.35.0  ver=v4  tcp=FAIL  latency=-  http=skip
 208.100.60.0  ver=v4  tcp=FAIL  latency=-  http=skip
-209.46.30.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=209.46.30.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+209.46.30.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=209.46.30.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 209.222.114.0  ver=v4  tcp=FAIL  latency=-  http=skip
 209.222.115.0  ver=v4  tcp=FAIL  latency=-  http=skip
 212.22.76.0  ver=v4  tcp=FAIL  latency=-  http=skip
 212.239.86.0  ver=v4  tcp=FAIL  latency=-  http=skip
 213.182.199.0  ver=v4  tcp=FAIL  latency=-  http=skip
 213.182.210.0  ver=v4  tcp=FAIL  latency=-  http=skip
-213.241.198.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=213.241.198.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-216.120.131.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=216.120.131.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+213.241.198.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=213.241.198.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+216.120.131.0  ver=v4  tcp=OK  latency=1ms  http=000  remote=216.120.131.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 216.120.180.0  ver=v4  tcp=OK  latency=2ms  http=000  remote=216.120.180.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 216.154.208.0  ver=v4  tcp=FAIL  latency=-  http=skip
-216.198.53.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=216.198.53.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+216.198.53.0  ver=v4  tcp=OK  latency=3ms  http=403  remote=216.198.53.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 216.198.54.0  ver=v4  tcp=OK  latency=2ms  http=403  remote=216.198.54.0  finalURL=https://axisnow-health.106938.xyz/health.txt
-216.205.52.0  ver=v4  tcp=OK  latency=3ms  http=200  remote=216.205.52.0  finalURL=https://axisnow-health.106938.xyz/health.txt
+216.205.52.0  ver=v4  tcp=OK  latency=2ms  http=200  remote=216.205.52.0  finalURL=https://axisnow-health.106938.xyz/health.txt
 223.27.176.0  ver=v4  tcp=FAIL  latency=-  http=skip
 2001:503:ff40::  ver=v6  tcp=FAIL  latency=-  http=skip
 2001:503:ff41::  ver=v6  tcp=FAIL  latency=-  http=skip
